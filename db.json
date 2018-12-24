@@ -1,0 +1,138 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "public": "public",
+    "rewrites": []
+  },
+  "posts": [
+    {
+      "id": 1,
+      "content": "Como a tecnologia pode transformar positivamente a vida das pessoas?",
+      "author": 1,
+      "imageAuthor": "http://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "image": "http://blog.locaweb.com.br/wp-content/uploads/2015/08/09-Saude-Blog.png",
+      "date": "1 de 11 - 17H19",
+      "text": "Tudo bem, a frase é um tanto clichê e provavelmente você já a ouviu em algum momento. Mas não podemos negar que ela é inspiradora. Tão inspiradora que alguns programadores, desenvolvedores e outros profissionais que trabalham com tecnologia, têm levado essas palavras à risca 09-Saude-Blog Sim, o mundo tecnológico também “tem sentimentos”. Ou melhor, os profissionais que atuam nessa área se dedicam, pesquisam bastante e, por meio de muito trabalho – e suor -, transformam e facilitam a vida de outras pessoas; investindo em projetos que visam incluir e auxiliar no dia a dia de quem precisa.",
+      "initialLikes": 11
+    },
+    {
+      "id": 2,
+      "content": "Israel “declara guerra” aos sonegadores fiscais de criptomoedas",
+      "author": 2,
+      "imageAuthor": "https://osegredo.com.br/wp-content/uploads/2017/09/O-que-as-pessoas-felizes-t%C3%AAm-em-comum-site-830x450.jpg",
+      "image": "https://img.ibxk.com.br///2018/12/12/12010604521006-t1200x480.jpg",
+      "date": "1 de 11 - 17H19",
+      "text": "",
+      "initialLikes": 4
+    },
+    {
+      "id": 3,
+      "content": "A história da Atari, a base da indústria dos games",
+      "author": 3,
+      "imageAuthor": "https://hypescience.com/wp-content/uploads/2013/12/sucesso.jpg",
+      "image": "https://img.ibxk.com.br///2018/11/13/13093219475022-t1200x480.jpg",
+      "date": "1 de 11 - 17H19",
+      "text": "",
+      "initialLikes": 10
+    },
+    {
+      "content": "Ford Range 2019",
+      "author": "3",
+      "imageAuthor": "https://hypescience.com/wp-content/uploads/2013/12/sucesso.jpg",
+      "image": "https://images.noticiasautomotivas.com.br/img/f/ford-ranger-2017-limited-NA-1.jpg",
+      "date": "1 de 11 - 17H19",
+      "initialLikes": 5,
+      "text": "",
+      "id": 5
+    },
+    {
+      "content": "Praias",
+      "author": "3",
+      "imageAuthor": "https://hypescience.com/wp-content/uploads/2013/12/sucesso.jpg",
+      "image": "http://www.guiaviajarmelhor.com.br/wp-content/uploads/2017/10/Praias-Brasil-13.jpg",
+      "date": "1 de 11 - 17H19",
+      "text": "",
+      "initialLikes": 0,
+      "id": 7
+    },
+    {
+      "content": "Facebook pode levar multa bilionária por vazamento de dados de usuários",
+      "author": "1",
+      "imageAuthor": "http://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "image": "https://img.ibxk.com.br//2018/12/17/17120920399113-t1200x480.jpg",
+      "date": "1 de 11 - 17H19",
+      "text": "A Comissão de Proteção de Dados da Irlanda lançou um ‘inquérito estatuário’ ao Facebook após os relatos múltiplos que envolvem vazamento de dados de usuários da rede social, segundo a CNN. O órgão regulador, ao final da investigação, se notar que o Facebook falhou em proteger a privacidade de seus usuários pode aplicar a multa mais pesada já sofrida pela companhia, alcançando valores bilionários.\nAlém dos dados explorados por outras empresas, uma notícia da semana passada expôs um novo problema: aplicativos terceiros podiam acessar fotos de usuários da rede social mesmo que elas não tivessem sido postadas ainda. Esse bug em uma API para desenvolvedores chegou a afetar até 6,8 milhões de usuários.\n\nQual o “perigo” para o Facebook com esse novo inquérito? Ele chega após a realização da GDPR, novo conjunto de leis pesadas no que toca cibersegurança que compreende toda a Europa.\n\nPor causa da GDPR, as companhias que forem culpadas em investigações podem levar uma multa de US$ 23 milhões ou até 4% da receita anual — em 2017, o faturamento foi mais de US$ 40 bilhões; com o crescimento desse número, a multa pode ultrapassar US$ 1,6 bilhão.\n\nVocê pode saber mais sobre o acesso não-autorizado em fotos de usuários do Facebook clicando aqui\nUm porta-voz do Facebook comentou para a CNN que a empresa está ciente do inquérito e feliz em responder todas as questões que a Comissão de Proteção de Dados da Irlanda tenha a fazer.",
+      "initialLikes": 0,
+      "id": 8
+    },
+    {
+      "content": "asadasdasd",
+      "author": "2",
+      "imageAuthor": "https://osegredo.com.br/wp-content/uploads/2017/09/O-que-as-pessoas-felizes-t%C3%AAm-em-comum-site-830x450.jpg",
+      "image": "",
+      "date": "1 de 11 - 17H19",
+      "text": "asdasdasd",
+      "initialLikes": 0,
+      "id": 9
+    },
+    {
+      "content": "titulo",
+      "author": "3",
+      "imageAuthor": "https://hypescience.com/wp-content/uploads/2013/12/sucesso.jpg",
+      "image": "https://marketingdeconteudo.com/wp-content/uploads/2017/01/formatos-de-imagem-2.jpg",
+      "date": "1 de 11 - 17H19",
+      "text": "aaaaa",
+      "initialLikes": 0,
+      "id": 10
+    },
+    {
+      "content": "",
+      "author": "1",
+      "imageAuthor": "http://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "image": "",
+      "date": "1 de 11 - 17H19",
+      "text": "",
+      "initialLikes": 0,
+      "id": 11
+    },
+    {
+      "content": "asdasdas",
+      "author": "1",
+      "imageAuthor": "http://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "image": "",
+      "date": "1 de 11 - 17H19",
+      "text": "asdasdas",
+      "initialLikes": 0,
+      "id": 12
+    },
+    {
+      "content": "asdfasdf",
+      "author": "1",
+      "imageAuthor": "http://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "image": "",
+      "date": "1 de 11 - 17H20",
+      "text": "asdfasdf",
+      "initialLikes": 0,
+      "id": 13
+    }
+  ],
+  "author": [
+    {
+      "id": 1,
+      "name": "André Magno",
+      "image": "http://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Stela",
+      "image": "https://osegredo.com.br/wp-content/uploads/2017/09/O-que-as-pessoas-felizes-t%C3%AAm-em-comum-site-830x450.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pedro",
+      "image": "https://hypescience.com/wp-content/uploads/2013/12/sucesso.jpg"
+    }
+  ]
+}
